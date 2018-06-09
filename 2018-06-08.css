@@ -1,0 +1,48 @@
+.div-one {
+    background-color:lightgray;
+    width: 90%;
+
+    /* margin-top: 50px;
+margin-bottom: 100px;
+margin-left: 100px;
+margin-right: 100px; */
+margin : 200px auto;
+
+}
+.h-two {
+    text-align: center;
+}
+.div-two { 
+    
+text-align: center;
+
+}
+.para {
+padding: 30px 120px 0 120px; 
+}
+.para-o{
+    font-size: 20px;
+    text-align: center;
+}
+.text {
+    font-size: 30px;
+    text-align: left;
+}
+.textlast {
+    font-size: 15px;
+    font-family: monospace;
+}
+.white-border {
+    background-color: white;
+    margin: 0 50px 5px 50px;
+}
+
+.chuthichanh p {
+    text-align:  center;
+    margin-top: 5px;
+    margin-bottom:  5px;
+}
+
+.chuthichanh {
+    padding-bottom: 0.05px;
+}
